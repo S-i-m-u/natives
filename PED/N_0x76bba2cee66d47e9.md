@@ -10,6 +10,7 @@ Any _0x76BBA2CEE66D47E9(Any p0);
 
 
 ## Parameters
-* **p0**: 
+Ped
 
 ## Return value
+Returns eye color.
